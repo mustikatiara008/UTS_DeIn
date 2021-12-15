@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\bin\Debug\Perhitungan_volumebangunbalok.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\bin\Debug\Perhitungan_volumebangunbalok.exe
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\bin\Debug\Perhitungan_volumebangunbalok.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\obj\Debug\Perhitungan_volumebangunbalok.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\obj\Debug\Perhitungan_volumebangunbalok.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\obj\Debug\Perhitungan_volumebangunbalok.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\obj\Debug\Perhitungan_volumebangunbalok.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\obj\Debug\Perhitungan_volumebangunbalok.exe
+c:\users\asus\documents\visual studio 2015\Projects\Perhitungan_volumebangunbalok\Perhitungan_volumebangunbalok\obj\Debug\Perhitungan_volumebangunbalok.pdb
